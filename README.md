@@ -19,6 +19,6 @@ https://gregarious-palmier-b27e90.netlify.app/
 ## Screenshots
 
 - Before <br/> <br/>
-  <img src="https://i.ibb.co/RvsL301/img1.png" alt="img1" border="0">
+  <img src="https://i.ibb.co/bJCPVtq/img1.png" alt="img1" border="0">
 - After <br/> <br/>
-  <img src="https://i.ibb.co/9rzWxV7/img2.png" alt="img2" border="0">
+  <img src="https://i.ibb.co/KbX1ySY/img2.png" alt="img2" border="0">
