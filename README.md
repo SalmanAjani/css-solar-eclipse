@@ -9,7 +9,7 @@ This is a CSS Animation that shows how a solar eclipse works. There are 2 sphere
 
 ## 🔗 Link
 
-https://gregarious-palmier-b27e90.netlify.app/
+https://solar-eclipse-0426.netlify.app/
 
 ## Features
 
