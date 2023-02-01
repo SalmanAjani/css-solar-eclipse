@@ -1,4 +1,4 @@
-# Introduction
+# Solar Eclipse
 
 This is a CSS Animation that shows how a solar eclipse works. There are 2 spheres. The sun gets completely overlapped by the moon which gives it that shadowy effect.
 
